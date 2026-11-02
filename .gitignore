@@ -1,0 +1,9 @@
+# API key de TMDB: nunca al repo
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
